@@ -1,0 +1,50 @@
+[
+    {
+        "STT (No.)":"1",
+        "Tên hàng hóa, dịch vụ (Description)":"2",
+        "Đơn vị tính (Unit)":"3",
+        "Số lượng (Quantity)":"4",
+        "Đơn giá (Price)":"5",
+        "Thành tiền (Amount)":"6 = 4 x 5"
+    },
+    {
+        "STT (No.)":"1",
+        "Tên hàng hóa, dịch vụ (Description)":"PHỤ PHÍ GIẢM THẢI LƯU HUỲNH (LSS)",
+        "Đơn vị tính (Unit)":"KHỐI",
+        "Số lượng (Quantity)":"2,12",
+        "Đơn giá (Price)":"79.134",
+        "Thành tiền (Amount)":"167.764"
+    },
+    {
+        "STT (No.)":"2",
+        "Tên hàng hóa, dịch vụ (Description)":"PHÍ XẾP DỠ TẠI CẢNG (THC)",
+        "Đơn vị tính (Unit)":"KHỐI",
+        "Số lượng (Quantity)":"2,12",
+        "Đơn giá (Price)":"131.890",
+        "Thành tiền (Amount)":"279.607"
+    },
+    {
+        "STT (No.)":"3",
+        "Tên hàng hóa, dịch vụ (Description)":"PHÍ KHAI THÁC HÀNG LẺ (CFS)",
+        "Đơn vị tính (Unit)":"KHỐI",
+        "Số lượng (Quantity)":"2,12",
+        "Đơn giá (Price)":"448.426",
+        "Thành tiền (Amount)":"950.663"
+    },
+    {
+        "STT (No.)":"4",
+        "Tên hàng hóa, dịch vụ (Description)":"PHÍ CHỨNG TỪ (D\/O)",
+        "Đơn vị tính (Unit)":"BỘ",
+        "Số lượng (Quantity)":"1",
+        "Đơn giá (Price)":"659.450",
+        "Thành tiền (Amount)":"659.450"
+    },
+    {
+        "STT (No.)":"",
+        "Tên hàng hóa, dịch vụ (Description)":"CẢNG XẾP HÀNG (POL): SHANGHAI - CẢNG DỠ HÀNG (POD): HAIPHONG - TÊN CHUYẾN TÀU\/SỐ CHUYẾN (VESSEL\/VOYAGE): MILD JAZZ\/2601S - SỐ VẬN ĐƠN (BILL): SHHPG25274271B#JJCSHHPY600003",
+        "Đơn vị tính (Unit)":"",
+        "Số lượng (Quantity)":"",
+        "Đơn giá (Price)":"",
+        "Thành tiền (Amount)":""
+    }
+]

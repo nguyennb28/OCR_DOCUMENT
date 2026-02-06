@@ -1,0 +1,17 @@
+[project]
+name = "second-spacy-ocr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "docling>=2.72.0",
+    "pandas>=2.3.3",
+    "pip>=26.0",
+    "pyvi>=0.1.1",
+    "ruff>=0.15.0",
+    "setuptools>=80.10.2",
+    "spacy>=3.8.11",
+    "spacy-layout[docling]>=0.0.12",
+    "wheel>=0.46.3",
+]

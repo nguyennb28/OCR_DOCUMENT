@@ -1,0 +1,82 @@
+[
+    {
+        "STT":"No.",
+        "Tên Hàng Hóa, Dịch Vụ":"Description",
+        "Số Lượng - Đơn Vị Tính":"Quantity - Unit",
+        "Đơn Giá":"Unit Price",
+        "Tiền Trước Thuế(VNĐ)":"Exclude VAT",
+        "Tiền Thuế":"%",
+        "Tiền Thuế_VAT":"VAT Amount",
+        "Thành Tiền":"Total Amount"
+    },
+    {
+        "STT":"1",
+        "Tên Hàng Hóa, Dịch Vụ":"2",
+        "Số Lượng - Đơn Vị Tính":"3",
+        "Đơn Giá":"4",
+        "Tiền Trước Thuế(VNĐ)":"5 = 3 x 4",
+        "Tiền Thuế":"6",
+        "Tiền Thuế_VAT":"7",
+        "Thành Tiền":"8"
+    },
+    {
+        "STT":"1",
+        "Tên Hàng Hóa, Dịch Vụ":"THU HỘ PHÍ LÀMHÀNG TẠI CẢNG( THC ) S34811 001FX54714 03\/01\/2026 S\/N:",
+        "Số Lượng - Đơn Vị Tính":"1 20\" CONT",
+        "Đơn Giá":"3.400.000",
+        "Tiền Trước Thuế(VNĐ)":"3.400.000",
+        "Tiền Thuế":"KHAC",
+        "Tiền Thuế_VAT":"178.947",
+        "Thành Tiền":"3.578.947"
+    },
+    {
+        "STT":"2",
+        "Tên Hàng Hóa, Dịch Vụ":"THU HỘ PHÍ VỆ SINH CONTS ( CLCO ). S34811 001FX54714 03\/01\/2026 S\/N:",
+        "Số Lượng - Đơn Vị Tính":"1 20\" CONT",
+        "Đơn Giá":"250.000",
+        "Tiền Trước Thuế(VNĐ)":"250.000",
+        "Tiền Thuế":"KHAC",
+        "Tiền Thuế_VAT":"13.158",
+        "Thành Tiền":"263.158"
+    },
+    {
+        "STT":"3",
+        "Tên Hàng Hóa, Dịch Vụ":"THU HỘ PHÍ CHỨNGTỪ ( DOC FEE) S34811 001FX54714",
+        "Số Lượng - Đơn Vị Tính":"1 BỘ",
+        "Đơn Giá":"1.100.000",
+        "Tiền Trước Thuế(VNĐ)":"1.100.000",
+        "Tiền Thuế":"KHAC",
+        "Tiền Thuế_VAT":"57.895",
+        "Thành Tiền":"1.157.895"
+    },
+    {
+        "STT":"4",
+        "Tên Hàng Hóa, Dịch Vụ":"03\/01\/2026 S\/N: THU HỘ CHỦ TÀU PHÍ BẢO TRÌ THIẾT BỊ ( EMCI ) S34811 001FX54714 03\/01\/2026 S\/N:",
+        "Số Lượng - Đơn Vị Tính":"1 20\" CONT",
+        "Đơn Giá":"300.000",
+        "Tiền Trước Thuế(VNĐ)":"300.000",
+        "Tiền Thuế":"KHAC",
+        "Tiền Thuế_VAT":"15.789",
+        "Thành Tiền":"315.789"
+    },
+    {
+        "STT":"5",
+        "Tên Hàng Hóa, Dịch Vụ":"THU HỘ - MẤT CÂN BẰNGCONT (EIC). S34811 001FX54714 03\/01\/2026 S\/N:",
+        "Số Lượng - Đơn Vị Tính":"1 20\" CONT",
+        "Đơn Giá":"2.500.000",
+        "Tiền Trước Thuế(VNĐ)":"2.500.000",
+        "Tiền Thuế":"KHAC",
+        "Tiền Thuế_VAT":"131.579",
+        "Thành Tiền":"2.631.579"
+    },
+    {
+        "STT":"Tổng Cộng VND (Grand Total VND) :",
+        "Tên Hàng Hóa, Dịch Vụ":"Tổng Cộng VND (Grand Total VND) :",
+        "Số Lượng - Đơn Vị Tính":"Tổng Cộng VND (Grand Total VND) :",
+        "Đơn Giá":"Tổng Cộng VND (Grand Total VND) :",
+        "Tiền Trước Thuế(VNĐ)":"7.550.000",
+        "Tiền Thuế":"",
+        "Tiền Thuế_VAT":"397.368",
+        "Thành Tiền":"7.947.368"
+    }
+]
